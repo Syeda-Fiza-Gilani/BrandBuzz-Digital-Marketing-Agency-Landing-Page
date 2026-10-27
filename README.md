@@ -5,7 +5,7 @@ A fully responsive, interactive landing page for a fictional digital marketing a
 <img width="1257" height="725" alt="image" src="https://github.com/user-attachments/assets/855b0763-c95b-4b51-8b14-20d78d2632d3" />
 
 
-🔗 
+🔗 Live Demo: https://brandbuzz-landing-page.vercel.app/
 
 ---
 
