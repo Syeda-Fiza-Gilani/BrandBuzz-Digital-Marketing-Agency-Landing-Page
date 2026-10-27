@@ -216,7 +216,7 @@ export default function App() {
             ))}
           </div>
         </div>
-        <div className="bottom"><span>All rights reserved 2022</span></div>
+        <div className="bottom"><span>All rights reserved</span></div>
       </footer>
 
       {modal && <Modal title={modal} onClose={() => setModal(null)} />}
